@@ -1,0 +1,41 @@
+.varela-round-regular {
+    font-family: "Varela Round", serif;
+    font-weight: 100;
+    font-style: normal;
+  }
+  
+html {
+    font-family: "Varela Round", sans-serif;
+}
+
+body{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+hr {
+    border:1.5px solid black;
+    width:70%;
+    text-align:left;
+    margin-left:0;
+}
+
+h2 {
+    color: green;
+}
+
+h3 {
+    color: green;
+}
+
+h4 {
+    font-size: larger;
+    color: #1a86cd;
+    margin-bottom: 0px;
+}
+
+.subpara {
+    margin-top: 0px;
+}
